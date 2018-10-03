@@ -21,15 +21,10 @@ Now here's the fun part,
 ### How do you participate?
 
 1. Fork this repo by clicking **Fork** :fork_and_knife:
-
 2. **Clone** this repo to your local machine
-
 3. Go to the **Code** folder :computer:
-
 4. Add a file with *Yourname*.*extension*
-
-5. **Commit** your changes :white_check_mark:
-
-6. **Push** your changes to your forked repo
-
-7. Make your beloved **Pull Request!!** :checkered_flag:
+5. Add a warm message to the **Contributing.md**
+6. **Commit** your changes :white_check_mark:
+7. **Push** your changes to your forked repo
+8. Make your beloved **Pull Request!!** :checkered_flag:
