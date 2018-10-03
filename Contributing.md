@@ -10,3 +10,4 @@
 * **Thank you for letting us contribute! - Helen
 * **Awesome Idea** - Bharath Natarajan
 * hey everyone! -Julian Drake 
+* **Hellllloooo everyone! Cheers from Switzerland! Nice idea** -- Mael Pedretti
