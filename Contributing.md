@@ -9,4 +9,5 @@
 * **awesome :fire:** - Priyansu Pulak
 * **Thank you for letting us contribute! - Helen
 * **Awesome Idea** - Bharath Natarajan
-* hey everyone! -Julian Drake 
+* hey everyone! -Julian Drake
+* **Hello open source squad! :grin:** - Ryan Eloff 
