@@ -4,7 +4,7 @@
 
 This repo will be a great **First Timer Issue**
 
-#### In this task, all you have to do is make a program that prints out "Aku Cinta Kamu", that's "I Love You" in Indonesian :indonesia:
+### In this task, all you have to do is make a program that prints out "Aku Cinta Kamu", that's "I Love You" in Indonesian :indonesia:
 
 ### Then you can add 2 lines of comments to state what's your name, and where you're from!
 
