@@ -19,3 +19,4 @@
 * **Hello open source squad! :grin:** - Ryan Eloff 
 * **I LOVE YOU ALL** - Rosdyana Kusuma
 * **Hello everyone..thanks so much** - Rozalii 
+* Hello from Jakarta :D - Farhan Oktavian
