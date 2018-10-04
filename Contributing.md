@@ -9,5 +9,6 @@
 * **awesome :fire:** - Priyansu Pulak
 * **Thank you for letting us contribute! - Helen
 * **Awesome Idea** - Bharath Natarajan
-* hey everyone! -Julian Drake
+* hey everyone! -Julian Drake 
+* **Hello From Brazil** - Willian R. Barbosa
 * This is my first ever open source contribution, thankyou for helping me understand how to make contributions - Jesse B
