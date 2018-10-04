@@ -15,3 +15,4 @@
 * **Hellllloooo everyone! Cheers from Switzerland! Nice idea** -- Mael Pedretti
 * **What a great start for contributing!** - Mahardika Krisna Ihsani
 * **Greetings!** -Oliver Gerhardt
+* Hello World - Aman Rajput
