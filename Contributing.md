@@ -16,3 +16,4 @@
 * **What a great start for contributing!** - Mahardika Krisna Ihsani
 * **Greetings!** -Oliver Gerhardt
 * Hello World - Aman Rajput
+* **Hello open source squad! :grin:** - Ryan Eloff 
