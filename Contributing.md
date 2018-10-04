@@ -17,3 +17,4 @@
 * **Greetings!** -Oliver Gerhardt
 * Hello World - Aman Rajput
 * **Hello open source squad! :grin:** - Ryan Eloff 
+* **I LOVE YOU ALL** - Rosdyana Kusuma
