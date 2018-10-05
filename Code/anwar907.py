@@ -1,3 +1,3 @@
 //anwar
 //indonesia
-print("Aku Cinta Kamu")
+print('Aku Cinta Kamu')
