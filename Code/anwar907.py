@@ -1,3 +1,3 @@
-//anwar
-//indonesia
+#anwar
+#indonesia
 print('Aku Cinta Kamu')
