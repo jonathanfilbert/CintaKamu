@@ -11,7 +11,7 @@ This repo will be a great **First Timer Issue**
 For example, this code in Python:
 
 ```python
-#Jonathan Filbert L.
+#Taufik Algi Fahri.
 #Indonesia
 print("Aku Cinta Kamu")
 ```
