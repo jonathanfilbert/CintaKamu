@@ -21,3 +21,4 @@
 * **Hello everyone..thanks so much** - Rozalii 
 * Hello from Jakarta :D - Farhan Oktavian
 * **Helllooooooooo** - Taufik Algi Fahri
+* **OMG** - Scott M. S.
