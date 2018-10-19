@@ -22,3 +22,4 @@
 * Hello from Jakarta :D - Farhan Oktavian
 * **Helllooooooooo** - Taufik Algi Fahri
 * **OMG** - Scott M. S.
+* Sending warm greetings from South Africa :) - Ntaoleng Moloi
