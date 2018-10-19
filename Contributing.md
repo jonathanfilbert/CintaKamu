@@ -23,3 +23,4 @@
 * **Helllooooooooo** - Taufik Algi Fahri
 * **OMG** - Scott M. S.
 * Sending warm greetings from South Africa :) - Ntaoleng Moloi
+* **Hello from Batcave in Brazil** - Leonardo Dutra
