@@ -9,19 +9,20 @@
 * **awesome :fire:** - Priyansu Pulak
 * **Thank you for letting us contribute! - Helen
 * **Awesome Idea** - Bharath Natarajan
-* hey everyone! -Julian Drake 
+* hey everyone! -Julian Drake
 * **Hello From Brazil** - Willian R. Barbosa
 * This is my first ever open source contribution, thankyou for helping me understand how to make contributions - Jesse B
 * **Hellllloooo everyone! Cheers from Switzerland! Nice idea** -- Mael Pedretti
 * **What a great start for contributing!** - Mahardika Krisna Ihsani
 * **Greetings!** -Oliver Gerhardt
 * Hello World - Aman Rajput
-* **Hello open source squad! :grin:** - Ryan Eloff 
+* **Hello open source squad! :grin:** - Ryan Eloff
 * **I LOVE YOU ALL** - Rosdyana Kusuma
-* **Hello everyone..thanks so much** - Rozalii 
+* **Hello everyone..thanks so much** - Rozalii
 * Hello from Jakarta :D - Farhan Oktavian
 * **Helllooooooooo** - Taufik Algi Fahri
 * **OMG** - Scott M. S.
 * Sending warm greetings from South Africa :) - Ntaoleng Moloi
 * **Hello from Batcave in Brazil** - Leonardo Dutra
 * **hiya everyone!** - sage
+* Hi everyone! - Gerson Santos
