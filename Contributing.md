@@ -25,3 +25,4 @@
 * Sending warm greetings from South Africa :) - Ntaoleng Moloi
 * **Hello from Batcave in Brazil** - Leonardo Dutra
 * **hiya everyone!** - sage
+* I would like to propose a heartfelt thank you for allowing me to make my first open source contribution - Shivanshu Jain
