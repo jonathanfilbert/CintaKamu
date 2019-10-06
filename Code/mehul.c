@@ -1,0 +1,17 @@
+#include<stdio.h>
+
+
+
+
+int main()
+{
+
+printf("Aku Cinta Kamu");
+
+
+
+
+
+
+
+}
