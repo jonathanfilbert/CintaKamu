@@ -1,4 +1,5 @@
-* **WELCOME FIRST TIMERS!! :fire:** - Jonathan Filbert
+ **WELCOME FIRST TIMERS!! :fire:** - Jonathan Filbert
+
 * **ILYA :heart_eyes:** - Ferdhika Yudira
 * **DUNIA SAAT INI KEKURANGAN CINTA :fire:** - David Valentino
 * **GREAT**
@@ -25,3 +26,4 @@
 * Sending warm greetings from South Africa :) - Ntaoleng Moloi
 * **Hello from Batcave in Brazil** - Leonardo Dutra
 * **hiya everyone!** - sage
+* **hi guys india is beautiful** -poojadesur
