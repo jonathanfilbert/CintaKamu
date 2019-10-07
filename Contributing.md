@@ -22,6 +22,7 @@
 * Hello from Jakarta :D - Farhan Oktavian
 * **Helllooooooooo** - Taufik Algi Fahri
 * **OMG** - Scott M. S.
+* **Thank you for letting us contribute! Great initiative. - Aayushakumars
 * Sending warm greetings from South Africa :) - Ntaoleng Moloi
 * **Hello from Batcave in Brazil** - Leonardo Dutra
 * **hiya everyone!** - sage
