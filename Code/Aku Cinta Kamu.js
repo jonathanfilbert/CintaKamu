@@ -1,0 +1,15 @@
+console.log("Aku Cinta Kamu");
+console.log("A");
+console.log("k");
+console.log("u");
+console.log(" ");
+console.log("C");
+console.log("i");
+console.log("n");
+console.log("t");
+console.log("a");
+console.log(" ");
+console.log("K");
+console.log("a");
+console.log("m");
+console.log("u");
