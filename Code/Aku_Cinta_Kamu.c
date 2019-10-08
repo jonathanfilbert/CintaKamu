@@ -1,3 +1,7 @@
 #Mura3132
 #Algeria
-printf("Aku Cinta Kamu")
+#include<stdio.h>
+
+void main(){
+	printf("Aku Cinta Kamu");
+}
