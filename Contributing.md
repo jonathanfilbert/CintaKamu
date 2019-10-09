@@ -25,4 +25,4 @@
 * Sending warm greetings from South Africa :) - Ntaoleng Moloi
 * **Hello from Batcave in Brazil** - Leonardo Dutra
 * **hiya everyone!** - sage
-* **hiya everyone!** -First try ever !! thank you <3 hope i'll get the chance to be an actif member of the community!! -LARBI
+* **Helloooow Humans !!** -First try ever !! thank you <3 hope i'll get the chance to be an actif member of the community!! -LARBI
