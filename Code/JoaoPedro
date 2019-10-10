@@ -1,0 +1,9 @@
+//Joao Pedro de Souza Ribeiro
+//Brazil
+
+#include <stdio.h>
+
+main(){
+    printf("Aku Cinta Kamu");
+
+}
