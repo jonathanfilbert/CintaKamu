@@ -2,6 +2,7 @@
 #Algeria
 #include<stdio.h>
 
-void main(){
-	printf("Aku Cinta Kamu");
+int main(void){
+	printf("Aku Cinta Kamu\n");
+	return 0;
 }
