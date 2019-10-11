@@ -1,5 +1,5 @@
-#Mura3132
-#Algeria
+//Mura3132
+//Algeria
 #include<stdio.h>
 
 int main(void){
