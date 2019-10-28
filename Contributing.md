@@ -26,3 +26,4 @@
 * **Hello from Batcave in Brazil** - Leonardo Dutra
 * **hiya everyone!** - sage
 * **heh** - Steven R.
+* Thanks for giving me an excuse to try out a new language! - Lizard
