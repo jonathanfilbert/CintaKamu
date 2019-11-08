@@ -1,4 +1,5 @@
 * **WELCOME FIRST TIMERS!! :fire:** - Jonathan Filbert
+* **Hello from India** - Manav 
 * **ILYA :heart_eyes:** - Ferdhika Yudira
 * **DUNIA SAAT INI KEKURANGAN CINTA :fire:** - David Valentino
 * **GREAT**
