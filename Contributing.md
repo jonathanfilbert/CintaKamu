@@ -13,6 +13,7 @@
 * **Hello From Brazil** - Willian R. Barbosa
 * This is my first ever open source contribution, thankyou for helping me understand how to make contributions - Jesse B
 * **Hellllloooo everyone! Cheers from Switzerland! Nice idea** -- Mael Pedretti
+* **Greetings from India**
 * **What a great start for contributing!** - Mahardika Krisna Ihsani
 * **Greetings!** -Oliver Gerhardt
 * Hello World - Aman Rajput
